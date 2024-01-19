@@ -5,6 +5,7 @@ fullname function that should return the (full name).
  o For example:
 ▪ First_name = “your first name”, last_name = “your last name”
 ▪ Full_name = “your full name”
+ 
  o Write function named “string_alternative” that returns every other char in the full_name string.
 Str = “Good evening”
 Output: Go vnn
