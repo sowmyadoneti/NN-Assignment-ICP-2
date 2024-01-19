@@ -2,6 +2,8 @@ NN-Assignment-ICP-2
 
 Link to explanation video :
 
+https://drive.google.com/file/d/1xo7AziAwbI1ZY7JIW-X8beH1DHNdkfdF/view?usp=sharing
+
 
 Neural Network Assignment ICP_2 Programs In this assignment, the below concepts are covered:
 
