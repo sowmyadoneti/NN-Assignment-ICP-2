@@ -1,5 +1,11 @@
 NN-Assignment-ICP-2
 
+Student Name: Sowmya Doneti
+
+Student ID: 700754085
+
+CRN : 22280
+
 Link to explanation video :
 
 https://drive.google.com/file/d/1xo7AziAwbI1ZY7JIW-X8beH1DHNdkfdF/view?usp=sharing
